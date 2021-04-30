@@ -1,4 +1,4 @@
-### Personal Income by Major Component and Earnings by NAICS Industry" (Table CAINC5N) | The U.S. Bureau of Economic Analysis (BEA)
+### Personal Income by Major Component and Earnings by NAICS Industry (Table CAINC5N) | The U.S. Bureau of Economic Analysis (BEA)
 
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-5r625u6lyujme](https://aws.amazon.com/marketplace/pp/prodview-5r625u6lyujme).
 
